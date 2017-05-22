@@ -1,4 +1,3 @@
-# TypeScript
 Carlos Romero Bacurau de Brito (carlosr02), 20141011110255
 <h2>Resumo</h2>
 
