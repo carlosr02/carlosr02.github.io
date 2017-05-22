@@ -1,5 +1,6 @@
-Carlos Romero Bacurau de Brito (carlosr02), 20141011110255
-<h2>Resumo</h2>
+# TypeScript
+ Carlos Romero Bacurau de Brito (carlosr02), 20141011110255
+ <h2>Resumo</h2>
 
 * Propósito da linguagem: projetada para o desenvolvimento de aplicações de grande porte. Pode ser utilizada para desenvolver aplicações JavaScript para front-end e back-end (Node.js);
 * Multiparadigma: scripting, orientada a objetos, estruturada, imperativa, funcional, genérica;
